@@ -33,7 +33,7 @@ qr-code-component/
      └── image-qr-code.png
 ├── README.md
 
-📚 What I Learned
+📚 What I Learned<br>
 How to center elements using Flexbox
 Creating card layouts
 Working with images and text alignment
