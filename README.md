@@ -50,8 +50,8 @@ Thanks to the community for learning resources
 
 👩‍💻 Author
 
-Kusuma Jamjam
+Kusuma Jamjam<br>
 
-GitHub: https://github.com/JamjamKusuma16
+GitHub: https://github.com/JamjamKusuma16<br>
 LinkedIn: https://www.linkedin.com/in/kusuma-jamjam-771380258/
 ⭐ If you like this project, feel free to give it a star!
