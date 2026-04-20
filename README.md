@@ -7,7 +7,7 @@ This project helps improve front-end skills by practicing layout, spacing, and s
 
 ## 🚀 Live Demo
 
-👉 Add your live project link here (GitHub Pages / Netlify)
+👉 <a href="https://jamjamkusuma16.github.io/QR-code-component/">Demo</a>
 
 ---
 
@@ -44,7 +44,7 @@ qr-code-component/
 ├── style.css
 ├── images
       └── image-qr-code.png
-├── README.md
+└── README.md
 
 ```
 
